@@ -1,0 +1,39 @@
+.modal-content {
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+  border: 1px solid #ccc;
+  background: linear-gradient(to bottom, #fff, #f8f9fa);
+}
+
+.edit-button {
+  background-color: #007bff !important;
+  border-color: #007bff;
+  color: #fff;
+}
+
+.edit-button:hover {
+  background-color: #01264e !important;
+  border-color: #007bff;
+  color: #000000;
+}
+
+.delete-button {
+  width: 100px !important;
+  background-color: #dc3545 !important;
+  border-color: #dc3545 !important;
+  color: #fff !important;
+}
+
+.delete-button:hover {
+  color: black !important;
+  background-color: #860f0f !important;
+}
+
+.gestion-usuarios-container {
+  max-width: 85%;
+  margin-top: 120px;
+  padding: 20px;
+  background-color: #f8f9fa;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}

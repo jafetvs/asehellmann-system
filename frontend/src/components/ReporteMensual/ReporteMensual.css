@@ -1,0 +1,9 @@
+.customContainer {
+    margin-top: 150px; 
+    margin-bottom: 500px;
+    max-width: 500px;
+}
+
+.exchangeRateInput {
+    width: 50%;
+}

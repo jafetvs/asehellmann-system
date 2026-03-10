@@ -1,0 +1,40 @@
+.contactenos-container {
+    margin-top: 15%;
+    margin-bottom: 10%;
+  }
+  
+  .contacto-item {
+    background-color: #f0f0f0;
+    color: #000000;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .img-fluid-reloj {
+    max-width: 100px;
+    max-height: 100px;
+    float: right; 
+    border-radius: 50% !important; 
+}
+
+  .img-thumbnail {
+    padding: 0.25rem;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+    max-width: 100%;
+    height: auto;
+  }
+
+  .margen-abajo{
+    margin-bottom: 15px;
+  }
+
+  .margen-abajo-plus{
+    margin-bottom: 80px;
+  }

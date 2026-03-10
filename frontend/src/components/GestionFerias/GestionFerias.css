@@ -1,0 +1,95 @@
+
+.gestion-ferias-container {
+    max-width: 98%;
+    margin: 0 auto;
+    margin-top: 120px !important;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+.d-flex {
+    display: flex;
+  }
+  
+
+  
+  .barra-busqueda {
+    flex: 1; /* Ocupar todo el espacio disponible */
+    display: flex;
+    align-items: center;
+  }
+  
+  .barra-busqueda input[type="text"] {
+    flex-grow: 1; /* Para ocupar todo el espacio disponible */
+    height: 40px; /* Ajusta la altura según tus preferencias */
+    font-size: 18px; /* Ajusta el tamaño del texto según tus preferencias */
+    padding: 10px; /* Ajusta el espaciado interno según tus preferencias */
+    width: 100%;
+    margin-right: 5px;
+  }
+  
+  .button-group {
+    flex: 1; /* Ocupar todo el espacio disponible */
+    display: flex;
+    gap: 10px; /* Agregar espacio horizontal entre los botones */
+    align-items: center; /* Centrar verticalmente los botones */
+  }
+  
+  .btn-add {
+    width: 80%; /* Ancho personalizado */
+    height: 40px; /* Altura personalizada */
+  }
+
+  
+  /* Estilos para el botón "Cerrar" en la Modal */
+  .modal-footer .btn-secondary {
+    background-color: #ccc;
+    color: #333;
+    border: none;
+  }
+  
+  .modal-footer .btn-secondary:hover {
+    background-color: #bbb;
+  }
+  
+  .space-between-horizontal {
+    margin-bottom: 5px !important;
+    display: inline;
+  }
+  
+  .action-buttons {
+    display: flex;
+    justify-content: center; /* Centrar horizontalmente los botones */
+    gap: 10px; /* Agregar espacio horizontal entre los botones */
+  }
+  
+  .delete-button {
+    width: 100px !important; /* Ancho deseado con !important */
+    background-color: #dc3545 !important; /* Color rojo con !important */
+    border-color: #dc3545 !important; /* Color del borde con !important */
+    color: #fff !important; /* Color del texto con !important */
+  }
+
+  .modal-content {
+    background-color: #f8d7da; /* Color rosa */
+    border: 1px solid #f5c6cb; /* Borde rojo */
+}
+
+.custom-alert-modal .modal-content {
+  max-width: 400px; /* Ancho máximo deseado */
+  min-height: 200px; /* Altura mínima deseada */
+  margin: auto; /* Centrar horizontalmente */
+}
+
+.btn-add3 {
+  width: 160px; /* Ancho personalizado para el botón */
+  font-size: 16px; /* Tamaño de fuente ligeramente más pequeño */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.6); /* Sombra ligera */
+  height: 35px;
+  display: flex; /* Para usar flexbox */
+  justify-content: center; /* Centrar horizontalmente */
+  align-items: center; /* Centrar verticalmente */
+} 

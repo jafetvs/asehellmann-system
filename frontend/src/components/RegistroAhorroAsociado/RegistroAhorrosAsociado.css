@@ -1,0 +1,94 @@
+.gestion-convenios-container {
+  max-width: 85%;
+  margin: 0 auto;
+  margin-top: 120px !important;
+  padding: 20px;
+  background-color: #f8f9fa;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.d-flex {
+  display: flex;
+}
+
+.barra-busqueda {
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+
+.barra-busqueda input[type="text"] {
+  flex-grow: 1;
+  height: 40px;
+  font-size: 18px;
+  padding: 10px;
+  width: 100%;
+  margin-right: 5px;
+}
+
+.button-group {
+  flex: 1;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.btn-add {
+  width: 80%;
+  height: 40px;
+}
+
+.modal-footer .btn-secondary {
+  background-color: #ccc;
+  color: #333;
+  border: none;
+}
+
+.modal-footer .btn-secondary:hover {
+  background-color: #bbb;
+}
+
+.space-between-horizontal {
+  margin-bottom: 5px !important;
+  display: inline;
+}
+
+.action-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.delete-button {
+  width: 100px !important;
+  background-color: #dc3545 !important;
+  border-color: #dc3545 !important;
+  color: #fff !important;
+}
+
+.modal-content {
+  background-color: #f8d7da;
+  border: 1px solid #f5c6cb;
+}
+
+.custom-alert-modal .modal-content {
+  max-width: 400px;
+  min-height: 200px;
+  margin: auto;
+}
+
+.btn-add2 {
+  width: 80px;
+  font-size: 16px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.6);
+  height: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mt-4New {
+  margin-top: 0.5rem !important;
+}

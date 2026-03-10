@@ -1,0 +1,107 @@
+.home-container {
+    margin-top: 150px;
+    padding: 20px;
+}
+
+.banner {
+    background-color: #f0f0f0;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.banner-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.banner-title {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.banner-subtitle {
+    font-size: 18px;
+}
+
+.benefits-container {
+    padding: 50px 0;
+}
+
+.benefits-header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.benefits-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 30px;
+}
+
+.benefit-item {
+    text-align: center;
+    background-color: #242047;
+    color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.btn-more-info {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.btn-primary {
+    background-color: #242047;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.btn-primary:hover {
+    background-color: #003366;
+}
+
+.partner-benefits {
+    background-color: #f0f0f0;
+    padding: 50px 0;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.partner-benefits-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+}
+
+.benefit-image {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.current-convenios {
+    padding: 50px 0;
+    text-align: center;
+}
+
+.convenios-grid {
+    margin-top: 100px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+}
+
+.question-header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.convenio-card {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 5px;
+}

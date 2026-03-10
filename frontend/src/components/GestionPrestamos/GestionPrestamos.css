@@ -1,0 +1,14 @@
+.gestion-prestamos-container {
+  max-width: 98%;
+  margin-top: 150px !important;
+  padding: 20px;
+  background-color: #f8f9fa;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.btn-peq {
+  max-width: 90px;
+  font-size: 13px;
+}

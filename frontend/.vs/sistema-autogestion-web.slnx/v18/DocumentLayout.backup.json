@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jafet\\Desktop\\Portafolio\\Asehellman\\sistema-autogestion-web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jafet\\Desktop\\Portafolio\\Asehellman\\sistema-autogestion-web\\src\\contexts\\UserContext.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\contexts\\UserContext.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jafet\\Desktop\\Portafolio\\Asehellman\\sistema-autogestion-web\\src\\components\\GestionUsuarios\\GestionUsuarios.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\GestionUsuarios\\GestionUsuarios.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jafet\\Desktop\\Portafolio\\Asehellman\\sistema-autogestion-web\\src\\components\\AdminNavbar\\AdminNavbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\AdminNavbar\\AdminNavbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jafet\\Desktop\\Portafolio\\Asehellman\\sistema-autogestion-web\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserContext.js",
+              "DocumentMoniker": "C:\\Users\\jafet\\Desktop\\Portafolio\\Asehellman\\sistema-autogestion-web\\src\\contexts\\UserContext.js",
+              "RelativeDocumentMoniker": "src\\contexts\\UserContext.js",
+              "ToolTip": "C:\\Users\\jafet\\Desktop\\Portafolio\\Asehellman\\sistema-autogestion-web\\src\\contexts\\UserContext.js",
+              "RelativeToolTip": "src\\contexts\\UserContext.js",
+              "ViewState": "AgIAACAAAAAAAIBqjE8gwCcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-07T21:08:48.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestionUsuarios.js",
+              "DocumentMoniker": "C:\\Users\\jafet\\Desktop\\Portafolio\\Asehellman\\sistema-autogestion-web\\src\\components\\GestionUsuarios\\GestionUsuarios.js",
+              "RelativeDocumentMoniker": "src\\components\\GestionUsuarios\\GestionUsuarios.js",
+              "ToolTip": "C:\\Users\\jafet\\Desktop\\Portafolio\\Asehellman\\sistema-autogestion-web\\src\\components\\GestionUsuarios\\GestionUsuarios.js",
+              "RelativeToolTip": "src\\components\\GestionUsuarios\\GestionUsuarios.js",
+              "ViewState": "AgIAABkAAAAAAABrEVMnwCUAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-07T21:08:24.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminNavbar.js",
+              "DocumentMoniker": "C:\\Users\\jafet\\Desktop\\Portafolio\\Asehellman\\sistema-autogestion-web\\src\\components\\AdminNavbar\\AdminNavbar.js",
+              "RelativeDocumentMoniker": "src\\components\\AdminNavbar\\AdminNavbar.js",
+              "ToolTip": "C:\\Users\\jafet\\Desktop\\Portafolio\\Asehellman\\sistema-autogestion-web\\src\\components\\AdminNavbar\\AdminNavbar.js",
+              "RelativeToolTip": "src\\components\\AdminNavbar\\AdminNavbar.js",
+              "ViewState": "AgIAADQAAAAAAAAAAAAmwD0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-07T21:08:15.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\jafet\\Desktop\\Portafolio\\Asehellman\\sistema-autogestion-web\\src\\App.js",
+              "RelativeDocumentMoniker": "src\\App.js",
+              "ToolTip": "C:\\Users\\jafet\\Desktop\\Portafolio\\Asehellman\\sistema-autogestion-web\\src\\App.js",
+              "RelativeToolTip": "src\\App.js",
+              "ViewState": "AgIAAB8AAAAAACCn9ZMvwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-07T21:07:16.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
